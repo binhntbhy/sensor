@@ -1,2 +1,2 @@
 # sensor
-Môn học làm việc nhóm PTIT
+Làm việc nhóm PTIT
