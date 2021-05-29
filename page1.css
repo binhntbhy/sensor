@@ -6,7 +6,6 @@ body{
     font-size: 25;
 }
 
-
 #menu{
   width: 100%;
   background-color: rgba(129, 125, 125, 0.9);
@@ -46,9 +45,8 @@ body{
   clear: both;
 }
 
-.img-1{
-  width: 15%;
-  height: 25%;
+#footer p,h1,h3{
+  color: white;
 }
 /* ------------------------------- */
 
