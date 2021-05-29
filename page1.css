@@ -45,7 +45,13 @@ body{
   clear: both;
 }
 
-#footer p,h1,h3{
+#footer p{
+  color: white;
+}
+#footer h1{
+  color: white;
+}
+#footer h3{
   color: white;
 }
 /* ------------------------------- */
